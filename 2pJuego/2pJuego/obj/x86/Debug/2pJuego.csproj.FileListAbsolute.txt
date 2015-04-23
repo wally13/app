@@ -1,0 +1,5 @@
+C:\Users\Hernan\Documents\UPBC\IPOO\2pJuego\2pJuego\bin\Debug\2pJuego.exe
+C:\Users\Hernan\Documents\UPBC\IPOO\2pJuego\2pJuego\bin\Debug\2pJuego.pdb
+C:\Users\Hernan\Documents\UPBC\IPOO\2pJuego\2pJuego\obj\x86\Debug\2pJuego.exe
+C:\Users\Hernan\Documents\UPBC\IPOO\2pJuego\2pJuego\obj\x86\Debug\2pJuego.pdb
+C:\Users\Hernan\Documents\UPBC\IPOO\2pJuego\2pJuego\obj\x86\Debug\2pJuego.csprojResolveAssemblyReference.cache
